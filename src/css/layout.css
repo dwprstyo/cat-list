@@ -1,0 +1,17 @@
+.layout-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.layout {
+    background-color: #F5F6FA;
+    width: 414px;
+    min-height: 100vh;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.home {
+    padding-left: 3px;
+    padding-right: 3px;
+}
